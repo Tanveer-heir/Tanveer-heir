@@ -1,3 +1,5 @@
+![logo](1723279670282.jpeg)
+
 <h1 align="center">Hi 👋, I'm Tanveer Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
